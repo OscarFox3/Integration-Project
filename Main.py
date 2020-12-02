@@ -59,7 +59,7 @@ def main():
 
         comp_roll = False  # Not valid roll of dice
 
-
+        # Used in most programming languages
         while comp_roll != True:  # While loop with condition and not-equal-to
             # relational operator
             comp_1_roll = roll_dice()  # Call to function roll_dice
